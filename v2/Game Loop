@@ -1,0 +1,15 @@
+Game Loop 
+
+
+Draw start 
+User clicks 
+Initialise the game
+
+
+
+Loop
+- Draw Cards 
+- Take Guesses
+- Validate 
+- Flip Cards
+- Ask to Play again
